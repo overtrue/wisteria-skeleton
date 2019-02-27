@@ -8,7 +8,10 @@ return [
         'path' => '/resources/docs',
 
         // Index page file.
-        'home' => 'index.md',
+        'index' => 'index.md',
+
+        // Homepage
+        'home' => 'overview.md',
 
         // Versions
         'versions' => [

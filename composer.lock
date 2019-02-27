@@ -560,16 +560,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "5.8.x-dev",
+            "version": "v5.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "a5637515ceea23c429e46b7617e1a6a079c231d8"
+                "reference": "e6c8aa0e39d8f91068ad1c299546536e9f25ef63"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/a5637515ceea23c429e46b7617e1a6a079c231d8",
-                "reference": "a5637515ceea23c429e46b7617e1a6a079c231d8",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/e6c8aa0e39d8f91068ad1c299546536e9f25ef63",
+                "reference": "e6c8aa0e39d8f91068ad1c299546536e9f25ef63",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -709,7 +709,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2019-02-26T02:22:11+00:00"
+            "time": "2019-02-26T15:42:06+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -1150,8 +1150,7 @@
             "dist": {
                 "type": "path",
                 "url": "../wisteria",
-                "reference": "a852d8141e94f297b936ba4afb9b86c734239d5a",
-                "shasum": null
+                "reference": "4d1bfb797c4addd0916028627942c9867ec4f040"
             },
             "require": {
                 "erusev/parsedown-extra": "^0.7.1",
