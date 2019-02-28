@@ -609,16 +609,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.8.0",
+            "version": "v5.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "e6c8aa0e39d8f91068ad1c299546536e9f25ef63"
+                "reference": "c3b7cbe700efb0f4c9a5359feaedb0a1f0a741ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/e6c8aa0e39d8f91068ad1c299546536e9f25ef63",
-                "reference": "e6c8aa0e39d8f91068ad1c299546536e9f25ef63",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/c3b7cbe700efb0f4c9a5359feaedb0a1f0a741ca",
+                "reference": "c3b7cbe700efb0f4c9a5359feaedb0a1f0a741ca",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -758,7 +758,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2019-02-26T15:42:06+00:00"
+            "time": "2019-02-27T14:02:36+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -1005,16 +1005,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.14.0",
+            "version": "2.14.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "7a748bc397bd14b8a43b13beca73a8ffec554fd9"
+                "reference": "e68f869575bd703276be8d4264799cd3cce28107"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/7a748bc397bd14b8a43b13beca73a8ffec554fd9",
-                "reference": "7a748bc397bd14b8a43b13beca73a8ffec554fd9",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/e68f869575bd703276be8d4264799cd3cce28107",
+                "reference": "e68f869575bd703276be8d4264799cd3cce28107",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -1067,7 +1067,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2019-02-25T20:57:37+00:00"
+            "time": "2019-02-27T13:59:59+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -1255,8 +1255,7 @@
             "dist": {
                 "type": "path",
                 "url": "../wisteria",
-                "reference": "c71c8ebfcbae884183165ebe1382f9f1943230e3",
-                "shasum": null
+                "reference": "970093e269d5ef608cc11040d662f6dc0971d9f3"
             },
             "require": {
                 "erusev/parsedown-extra": "^0.7.1",
