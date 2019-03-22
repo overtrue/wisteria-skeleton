@@ -26,6 +26,13 @@ return [
         ],
     ],
 
+    'ui' => [
+        'logo' => 'vendor/wisteria/img/logo.svg',
+        'nav-links' => [
+            ['url' => '/', 'label' => 'Home', ],
+        ],
+    ],
+
     // SEO configs
     'seo'                 => [
         'author'          => 'Wisteria',
