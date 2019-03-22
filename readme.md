@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/1472352/54765401-694a5400-4c34-11e9-9f08-4d05d4629367.png" height="60" /></p>
 
-<p align="center"> Demo application for [Wisteria].(https://github.com/overtrue/wisteria)</p>
+<p align="center"> Demo application for <a href="https://github.com/overtrue/wisteria">Wisteria</a>.</p>
 
 
 ## Usage
