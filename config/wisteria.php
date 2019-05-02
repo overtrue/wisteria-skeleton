@@ -3,6 +3,8 @@
 return [
     'route' => '/docs',
 
+    'middleware' => [],
+
     'docs' => [
         // Storage path of docs files.
         'path' => '/resources/docs',
