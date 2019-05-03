@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8b62be5c5c3a20b657fc8e5b1bb8aeae",
+    "content-hash": "3983001ffae7e48fcaff3ebc560f1ea5",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1257,22 +1257,10 @@
         {
             "name": "overtrue/wisteria",
             "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/overtrue/wisteria.git",
-                "reference": "124d24ed7216d9eed8360d4fffb42bb5bac475cb"
-            },
             "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/overtrue/wisteria/zipball/124d24ed7216d9eed8360d4fffb42bb5bac475cb",
-                "reference": "124d24ed7216d9eed8360d4fffb42bb5bac475cb",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://dl.laravel-china.org/%package%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "type": "path",
+                "url": "/Users/overtrue/www/wisteria",
+                "reference": "1cfe357a634a6f8c54b9bb0a216509b44ba98abf"
             },
             "require": {
                 "erusev/parsedown-extra": "^0.7.1",
@@ -1293,7 +1281,6 @@
                     "Overtrue\\Wisteria\\": "src"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1303,8 +1290,7 @@
                     "email": "anzhengchao@gmail.com"
                 }
             ],
-            "description": "Beautiful document tool for your project.",
-            "time": "2019-05-02T15:53:21+00:00"
+            "description": "Beautiful document tool for your project."
         },
         {
             "name": "paragonie/random_compat",
