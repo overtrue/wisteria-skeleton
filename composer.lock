@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1669b32a4268178785d0f16fb66b65bc",
+    "content-hash": "cb34509c9765758cd0813b220bf411ed",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1143,10 +1143,15 @@
         {
             "name": "overtrue/wisteria",
             "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/overtrue/wisteria.git",
+                "reference": "5affbf2d50a876073c29913d7cd37b9d563a6207"
+            },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/overtrue/wisteria/zipball/124d24ed7216d9eed8360d4fffb42bb5bac475cb",
-                "reference": "124d24ed7216d9eed8360d4fffb42bb5bac475cb",
+                "url": "https://api.github.com/repos/overtrue/wisteria/zipball/5affbf2d50a876073c29913d7cd37b9d563a6207",
+                "reference": "5affbf2d50a876073c29913d7cd37b9d563a6207",
                 "shasum": ""
             },
             "require": {
@@ -1168,6 +1173,7 @@
                     "Overtrue\\Wisteria\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1177,7 +1183,8 @@
                     "email": "anzhengchao@gmail.com"
                 }
             ],
-            "description": "Beautiful document tool for your project."
+            "description": "Beautiful document tool for your project.",
+            "time": "2019-06-06T04:05:46+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -3892,16 +3899,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "7.5.9",
+            "version": "7.5.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "134669cf0eeac3f79bc7f0c793efbc158bffc160"
+                "reference": "9ba59817745b0fe0c1a5a3032dfd4a6d2994ad1c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/134669cf0eeac3f79bc7f0c793efbc158bffc160",
-                "reference": "134669cf0eeac3f79bc7f0c793efbc158bffc160",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/9ba59817745b0fe0c1a5a3032dfd4a6d2994ad1c",
+                "reference": "9ba59817745b0fe0c1a5a3032dfd4a6d2994ad1c",
                 "shasum": ""
             },
             "require": {
@@ -3972,7 +3979,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2019-04-19T15:50:46+00:00"
+            "time": "2019-05-28T11:59:40+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
@@ -4141,16 +4148,16 @@
         },
         {
             "name": "sebastian/environment",
-            "version": "4.2.1",
+            "version": "4.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/environment.git",
-                "reference": "3095910f0f0fb155ac4021fc51a4a7a39ac04e8a"
+                "reference": "f2a2c8e1c97c11ace607a7a667d73d47c19fe404"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/3095910f0f0fb155ac4021fc51a4a7a39ac04e8a",
-                "reference": "3095910f0f0fb155ac4021fc51a4a7a39ac04e8a",
+                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/f2a2c8e1c97c11ace607a7a667d73d47c19fe404",
+                "reference": "f2a2c8e1c97c11ace607a7a667d73d47c19fe404",
                 "shasum": ""
             },
             "require": {
@@ -4190,7 +4197,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2019-04-25T07:55:20+00:00"
+            "time": "2019-05-05T09:05:15+00:00"
         },
         {
             "name": "sebastian/exporter",
