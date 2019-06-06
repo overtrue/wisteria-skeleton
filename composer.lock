@@ -1143,11 +1143,6 @@
         {
             "name": "overtrue/wisteria",
             "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/overtrue/wisteria.git",
-                "reference": "124d24ed7216d9eed8360d4fffb42bb5bac475cb"
-            },
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/overtrue/wisteria/zipball/124d24ed7216d9eed8360d4fffb42bb5bac475cb",
@@ -1173,7 +1168,6 @@
                     "Overtrue\\Wisteria\\": "src"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1183,8 +1177,7 @@
                     "email": "anzhengchao@gmail.com"
                 }
             ],
-            "description": "Beautiful document tool for your project.",
-            "time": "2019-05-02T15:53:21+00:00"
+            "description": "Beautiful document tool for your project."
         },
         {
             "name": "paragonie/random_compat",
